@@ -1,2 +1,2 @@
 # list_BONDtv.html
-Playlist.html form github.com
+Playlist.html from github.com
